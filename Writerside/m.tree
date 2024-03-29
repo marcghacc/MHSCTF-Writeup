@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
+
+<instance-profile id="m"
+                  name="mhsctf"
+                  start-page="mhsctf.md" is-library="true">
+
+    <toc-element topic="mhsctf.md"/>
+    <toc-element topic="Print.md"/>
+    <toc-element topic="Reverse.md"/>
+    <toc-element topic="Highest-Number.md"/>
+    <toc-element topic="Calculator-in-Python.md"/>
+    <toc-element topic="Explain-this-to-me.md"/>
+    <toc-element topic="Malformed-Calculator.md"/>
+    <toc-element topic="Ceasar-Salads.md"/>
+    <toc-element topic="47-Salads.md"/>
+    <toc-element topic="Dirty-Keyboard.md"/>
+    <toc-element topic="Ash-Key.md"/>
+    <toc-element topic="Base.md"/>
+    <toc-element topic="Double-85.md"/>
+    <toc-element topic="⍙⊑⏃⏁-⟒⎐⟒⋏-⟟⌇-⏁⊑⟟⌇-☊⊑⏃⌰⌰⟒⋏☌⟒.md"/>
+    <toc-element topic="Triple-Threat.md"/>
+    <toc-element topic="Endianness.md"/>
+    <toc-element topic="CyberPatriot-Window.md"/>
+    <toc-element topic="CyberPatriot-Linux.md"/>
+    <toc-element topic="CyberPatriot-Router-Desc.md"/>
+    <toc-element topic="CyberPatriot-Linux-Account.md"/>
+    <toc-element topic="Cyberpatriot-Duck.md"/>
+</instance-profile>
