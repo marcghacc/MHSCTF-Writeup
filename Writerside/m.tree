@@ -7,24 +7,50 @@
                   start-page="mhsctf.md" is-library="true">
 
     <toc-element topic="mhsctf.md"/>
-    <toc-element topic="Print.md"/>
-    <toc-element topic="Reverse.md"/>
-    <toc-element topic="Highest-Number.md"/>
-    <toc-element topic="Calculator-in-Python.md"/>
-    <toc-element topic="Explain-this-to-me.md"/>
-    <toc-element topic="Malformed-Calculator.md"/>
-    <toc-element topic="Ceasar-Salads.md"/>
-    <toc-element topic="47-Salads.md"/>
-    <toc-element topic="Dirty-Keyboard.md"/>
-    <toc-element topic="Ash-Key.md"/>
-    <toc-element topic="Base.md"/>
-    <toc-element topic="Double-85.md"/>
-    <toc-element topic="AlienLanguage.md"/>
-    <toc-element topic="Triple-Threat.md"/>
-    <toc-element topic="Endianness.md"/>
-    <toc-element topic="CyberPatriot-Window.md"/>
-    <toc-element topic="CyberPatriot-Linux.md"/>
-    <toc-element topic="CyberPatriot-Router-Desc.md"/>
-    <toc-element topic="CyberPatriot-Linux-Account.md"/>
-    <toc-element topic="Cyberpatriot-Duck.md"/>
+    <toc-element topic="Forensics.md">
+        <toc-element topic="Big-Numbers.md"/>
+        <toc-element topic="In-Plain-Sight.md"/>
+        <toc-element topic="Find-the-secret-message.md"/>
+        <toc-element topic="What-hidden-in-this-picture.md"/>
+        <toc-element topic="Long-Road.md"/>
+        <toc-element topic="A-secret-in-the-middle-school.md"/>
+        <toc-element topic="Mean-Bakers.md"/>
+        <toc-element topic="Mad-Scientist.md"/>
+    </toc-element>
+    <toc-element topic="CyberPatriot.md">
+        <toc-element topic="CyberPatriot-Window.md"/>
+        <toc-element topic="CyberPatriot-Linux.md"/>
+        <toc-element topic="CyberPatriot-Router-Desc.md"/>
+        <toc-element topic="CyberPatriot-Linux-Account.md"/>
+        <toc-element topic="Cyberpatriot-Duck.md"/>
+        <toc-element topic="Cisco-Commands.md"/>
+    </toc-element>
+    <toc-element topic="Programing.md">
+        <toc-element topic="Print.md"/>
+        <toc-element topic="Reverse.md"/>
+        <toc-element topic="Highest-Number.md"/>
+        <toc-element topic="Calculator-in-Python.md"/>
+        <toc-element topic="Explain-this-to-me.md"/>
+        <toc-element topic="Malformed-Calculator.md"/>
+    </toc-element>
+    <toc-element topic="Cryptos.md">
+        <toc-element topic="Ceasar-Salads.md"/>
+        <toc-element topic="47-Salads.md"/>
+        <toc-element topic="Dirty-Keyboard.md"/>
+        <toc-element topic="Ash-Key.md"/>
+        <toc-element topic="Base.md"/>
+        <toc-element topic="Double-85.md"/>
+        <toc-element topic="AlienLanguage.md"/>
+        <toc-element topic="Triple-Threat.md"/>
+        <toc-element topic="Endianness.md"/>
+    </toc-element>
+    <toc-element topic="OSINT.md">
+        <toc-element topic="Welcome-to-OSINT.md">
+        </toc-element>
+        <toc-element topic="Who-created-linux.md"/>
+        <toc-element topic="Put-X-in-the-Center-Square.md"/>
+        <toc-element topic="Football-Frenzy.md"/>
+        <toc-element topic="CVE-Numbers.md"/>
+        <toc-element topic="Spa-Day-on-My-Remote-Island.md"/>
+    </toc-element>
 </instance-profile>
